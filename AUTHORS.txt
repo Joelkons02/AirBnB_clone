@@ -1,0 +1,4 @@
+# This file lists all contributors to the repository.
+
+Nchindap Joel Konse <konsenj02@gmail.com>
+Funmilayo Fadeni <issyemerald@gmail.com>
